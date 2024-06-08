@@ -1,0 +1,2 @@
+--Made By Nitr0--
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Nitropitro/Dont/main/Dont"))();
